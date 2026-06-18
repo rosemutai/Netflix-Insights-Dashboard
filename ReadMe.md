@@ -1,5 +1,7 @@
 # Netflix Content Insights Dashboard
 
+![Power BI Dashboard](https://github.com/rosemutai/Netflix-Insights-Dashboard/blob/main/images/dashboard.png)
+
 **Tools Used:**
 * SQL
 * Power BI
